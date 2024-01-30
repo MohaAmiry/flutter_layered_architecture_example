@@ -1,16 +1,10 @@
-# flutter_layered_architecture_example
+This is a project i made in university when i was learning architectures.
 
-A new Flutter project.
+### Targeted Audience
+This project is aimed for anyone wants to get into architectures and design while using flutter! it will be a great starting point to grasp the workflow of layered architecture.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Components
+this project is composed of the major layers
+* Data for database management.
+* Models for application models that are consumed by the views.
+* Views which is the layer where flutter is used, the UI.
